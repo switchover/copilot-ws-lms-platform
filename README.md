@@ -1,2 +1,1 @@
-# copilot-ws-lms-platform
-A repository for LMS platform
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
